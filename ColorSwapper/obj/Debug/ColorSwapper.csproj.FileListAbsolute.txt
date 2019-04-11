@@ -1,0 +1,10 @@
+C:\Users\doogi\source\repos\ColorSwapper\ColorSwapper\bin\Debug\ColorSwapper.exe.config
+C:\Users\doogi\source\repos\ColorSwapper\ColorSwapper\bin\Debug\ColorSwapper.exe
+C:\Users\doogi\source\repos\ColorSwapper\ColorSwapper\bin\Debug\ColorSwapper.pdb
+C:\Users\doogi\source\repos\ColorSwapper\ColorSwapper\obj\Debug\ColorSwapper.csprojAssemblyReference.cache
+C:\Users\doogi\source\repos\ColorSwapper\ColorSwapper\obj\Debug\ColorSwapper.Form1.resources
+C:\Users\doogi\source\repos\ColorSwapper\ColorSwapper\obj\Debug\ColorSwapper.Properties.Resources.resources
+C:\Users\doogi\source\repos\ColorSwapper\ColorSwapper\obj\Debug\ColorSwapper.csproj.GenerateResource.cache
+C:\Users\doogi\source\repos\ColorSwapper\ColorSwapper\obj\Debug\ColorSwapper.csproj.CoreCompileInputs.cache
+C:\Users\doogi\source\repos\ColorSwapper\ColorSwapper\obj\Debug\ColorSwapper.exe
+C:\Users\doogi\source\repos\ColorSwapper\ColorSwapper\obj\Debug\ColorSwapper.pdb
